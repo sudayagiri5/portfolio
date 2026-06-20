@@ -46,6 +46,9 @@ export const metadata: Metadata = {
     apple: "/apple-touch-icon.png",
   },
   manifest: "/site.webmanifest",
+  verification: {
+    google: "k6jlvkfT9PocH904t6iILOb3XNXNlQY0WxmelGkhCQ8",
+  },
 };
 
 const jsonLd = {
